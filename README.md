@@ -1,2 +1,3 @@
-# code_chatgpt
-Materials for the workshop on how to code with ChatGPT
+# How to Code with ChatGPT
+
+This repo hosts the materials for a workshop on how to code with ChatGPT.
