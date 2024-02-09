@@ -4,5 +4,5 @@ The process reflected here should help you with your more realistic research sce
 
 [ChatGPT Link to Conversation](https://chat.openai.com/share/801eca77-32af-4c69-9191-43f4259efcf1)
 
-**Note:** Please remember the original prompt is taken from the Advent of Code website. See here.
+**Note:** Please remember the original prompt is taken from the Advent of Code website. See [link here](https://adventofcode.com/2022/day/2).
 
