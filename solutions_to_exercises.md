@@ -8,9 +8,11 @@ You can find a possible solution to the exercise in Python [here](https://github
 
 ## Exercise 2 (rock, paper, scissors)
 
-Below is the conversation I had with ChatGPT to try to solve the problem. It got quite lengthy! However, it was important to understand why it was giving errors and guide it through the process of solving it.
+Below is an example conversation with ChatGPT for solving this problem. It got quite lengthy, however, it was important to understand why it was giving errors and guide it through the process of solving it.
 
 The process reflected here should help you with your more realistic research scenarios.
+
+Pay attention to how summarizing its own knowledge in the form of a table helped it correct the code implementation.
 
 [ChatGPT Link to Conversation](https://chat.openai.com/share/801eca77-32af-4c69-9191-43f4259efcf1)
 
